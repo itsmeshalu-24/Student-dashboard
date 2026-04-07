@@ -49,14 +49,12 @@ streamlit run app.py
 Open in browser: http://localhost:8501
 
 ## 📁 File Structure
-
-
-├─ app.py # Streamlit app
-├─ model.py # ML model training script
-├─ model.pkl # Trained model
-├─ students.csv # Dataset for charts & trends
+├─ app.py           # Streamlit app
+├─ model.py         # ML model training script
+├─ model.pkl        # Trained model
+├─ students.csv     # Dataset for charts & trends
 ├─ requirements.txt # Required Python packages
-└─ README.md # Project documentation
+└─ README.md        # Project documentation
 
 
 ---
