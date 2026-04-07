@@ -34,7 +34,6 @@ This project is an interactive **Streamlit app** that predicts whether a student
 ## 🏗 How to Run Locally
 
 ```bash
-
 # Clone the repo
 git clone https://github.com/itsmeshalu-24/Student-dashboard.git
 cd Student-dashboard
@@ -44,6 +43,8 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run app.py
+```
+
 
 Open in browser: http://localhost:8501
 
@@ -55,8 +56,8 @@ Open in browser: http://localhost:8501
 ├─ students.csv     # Dataset for charts & trends
 ├─ requirements.txt # Required Python packages
 └─ README.md        # Project documentation
-🧠 Key Insights
 
+🧠 Key Insights
 Students with more sessions are less likely to drop off.
 High inactivity increases the risk of dropout.
 Better quiz scores improve retention.
