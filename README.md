@@ -58,22 +58,26 @@ Open in browser: http://localhost:8501
 └─ README.md        # Project documentation
 
 🧠 Key Insights
+
 Students with more sessions are less likely to drop off.
 High inactivity increases the risk of dropout.
 Better quiz scores improve retention.
 Provides actionable suggestions for engagement improvement.
 
 🌟 Next Steps
+
 Deploy on Streamlit Community Cloud for live access.
 Add risk meter and color indicators for premium UX.
 Integrate more interactive dashboards and analytics.
 
 ✅ Usage Tips
+
 Click Predict to get the latest output.
 Refresh the app after any code update.
 Retrain the model if the dataset changes.
 
 🎯 Outcome
+
 AI usage & predictive analytics ✅
 Product thinking & business insights ✅
 Interactive, real-world dashboard ✅
