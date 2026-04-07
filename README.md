@@ -12,12 +12,12 @@ This project is an interactive **Streamlit app** that predicts whether a student
 
 ## 🚀 Features
 
-- **Prediction with Confidence Score** – Know the model’s certainty.
-- **Interactive Inputs** – Adjust sessions, time spent, last active days, and quiz score.
-- **Student Summary** – Quick overview of student activity.
-- **Engagement Trends** – Line chart showing sessions attended vs. average time spent.
-- **Drop-off Distribution** – Bar chart of active vs. inactive students.
-- **Key Insights & Suggestions** – Recommendations to improve engagement.
+- **Prediction with Confidence Score** – Know the model’s certainty.  
+- **Interactive Inputs** – Adjust sessions, time spent, last active days, and quiz score.  
+- **Student Summary** – Quick overview of student activity.  
+- **Engagement Trends** – Line chart showing sessions attended vs. average time spent.  
+- **Drop-off Distribution** – Bar chart of active vs. inactive students.  
+- **Key Insights & Suggestions** – Recommendations to improve engagement.  
 
 ---
 
@@ -35,8 +35,8 @@ This project is an interactive **Streamlit app** that predicts whether a student
 
 1. **Clone the repo:**
 ```bash
-git clone <your-repo-link>
-cd student dashboard
+git clone https://github.com/itsmeshalu-24/Student-dashboard.git
+cd Student-dashboard
 
 Install dependencies:
 pip install -r requirements.txt
@@ -48,7 +48,6 @@ Open in browser:
 http://localhost:8501
 
 📁 File Structure
-
 ├─ app.py           # Streamlit app
 ├─ model.py         # ML model training script
 ├─ model.pkl        # Trained model
