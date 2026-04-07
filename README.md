@@ -48,36 +48,46 @@ streamlit run app.py
 
 Open in browser: http://localhost:8501
 
-📁 File Structure
+## 📁 File Structure
 
-├─ app.py           # Streamlit app
-├─ model.py         # ML model training script
-├─ model.pkl        # Trained model
-├─ students.csv     # Dataset for charts & trends
+
+├─ app.py # Streamlit app
+├─ model.py # ML model training script
+├─ model.pkl # Trained model
+├─ students.csv # Dataset for charts & trends
 ├─ requirements.txt # Required Python packages
-└─ README.md        # Project documentation
+└─ README.md # Project documentation
 
-🧠 Key Insights
 
-Students with more sessions are less likely to drop off.
-High inactivity increases the risk of dropout.
-Better quiz scores improve retention.
-Provides actionable suggestions for engagement improvement.
+---
 
-🌟 Next Steps
+## 🧠 Key Insights
 
-Deploy on Streamlit Community Cloud for live access.
-Add risk meter and color indicators for premium UX.
-Integrate more interactive dashboards and analytics.
+- Students with more sessions are less likely to drop off.  
+- High inactivity increases the risk of dropout.  
+- Better quiz scores improve retention.  
+- Provides actionable suggestions for engagement improvement.  
 
-✅ Usage Tips
+---
 
-Click Predict to get the latest output.
-Refresh the app after any code update.
-Retrain the model if the dataset changes.
+## 🌟 Next Steps
 
-🎯 Outcome
+- Deploy on **Streamlit Community Cloud** for live access.  
+- Add **risk meter and color indicators** for premium UX.  
+- Integrate more **interactive dashboards and analytics**.  
 
-AI usage & predictive analytics ✅
-Product thinking & business insights ✅
-Interactive, real-world dashboard ✅
+---
+
+## ✅ Usage Tips
+
+- Click **Predict** to get the latest output.  
+- Refresh the app after any code update.  
+- Retrain the model if the dataset changes.  
+
+---
+
+## 🎯 Outcome
+
+- **AI usage & predictive analytics** ✅  
+- **Product thinking & business insights** ✅  
+- **Interactive, real-world dashboard** ✅
